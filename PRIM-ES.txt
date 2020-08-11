@@ -1,0 +1,2 @@
+Os códigos demandaram em volta de 30 minutos para o desenvolvimento, o primeiro foi feito na linguagem Java, 
+o segundo código demandou um pouco mais de tempo devido a utilização do algoritmo de Eclides em PYTHON, porém ambos foram desenvolvidos sem muita dificuldade
